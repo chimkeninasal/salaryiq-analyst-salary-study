@@ -46,9 +46,9 @@ salaryiq-analyst-salary-study/
 │   └── jobmarket_exploratory_data_analysis.ipynb       ← EDA + hypothesis testing
 │
 ├── images/
-│   ├── dashboard-market-overview.png  ← Tableau dashboard screenshot
-│   ├── dashboard-offer-checker.png    ← Offer checker page
-│   └── dashboard-full.png             ← Full dashboard view
+│   ├── salaryiq-marketoverview.png    ← Tableau dashboard screenshot
+│   ├── salayiq-offerchecker.png       ← Offer checker page screenshot
+│   └── salaryiq-location.png          ← Location dashboard screenshot
 │
 └── README.md
 ```
@@ -64,7 +64,7 @@ salaryiq-analyst-salary-study/
 
 ## Dashboard
 
-🔗 **[View Live on Tableau Public →]**
+🔗 Due to limitations in access, the dashboard is not available in Tableau public.
 
 The SalaryIQ dashboard includes three views:
 
